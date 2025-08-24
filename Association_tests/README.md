@@ -253,9 +253,7 @@ Manhattan plot is the most classic visualization of GWAS summary statistics. It 
 !!! note
     This kind of plot was named after Manhattan in New York City since it resembles the Manhattan skyline.   
 
-!!! info "A real Manhattan plot"
-    <img width="686" alt="image" src="https://user-images.githubusercontent.com/40289485/209780549-54a24fdd-485b-4875-8f40-d6812eb644fe.png">
-    I took this photo in 2020 just before the COVID-19 pandemic. It was a cloudy and misty day. Those birds formed a significance threshold line. And the skyscrapers above that line resembled the significant signals in your GWAS.  I believe you could easily get how the GWAS Manhattan plot was named. 
+!
 
 Data we need from sumstats to create Manhattan plots:
 
